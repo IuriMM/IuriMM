@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Iuri Mauricio
 
 **`Desenvolvedor Fullstack`**
 
