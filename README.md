@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Meu nome é Iuri, tenho 20 anos e sou de Aracaju/SE. Atualmente, estou cursando Sistemas de Informação na UFS. Sou apaixonado por tecnologia e desafios.
+Meu nome é Iuri, tenho 20 anos e sou de Aracaju/SE. Atualmente, estou cursando Sistemas de Informação na UFS. Sou apaixonado por tecnologia e desafios.Sou front-end developer, e data-scientist.
 
 ### 🤖 Linguagens e Tecnologias
 
